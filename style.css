@@ -3,7 +3,24 @@
 
 }
 
-.main {
+.main .menu {
+  display: flex;
+}
+
+.main .nama-menu {
   text-align: center;
   margin-top: 2rem;
+}
+
+.main .menu-tutorial {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.main .menu .menu-img {
+  width: 50%;
+}
+
+.main .menu .menu-deskripsi {
+  width: 50%;
 }
