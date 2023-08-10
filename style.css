@@ -1,13 +1,12 @@
 .header {
   text-align: center;
-
 }
 
 .main .menu {
   display: flex;
 }
 
-.main .nama-menu {
+.main .nama-doa {
   text-align: center;
   margin-top: 2rem;
 }
